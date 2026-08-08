@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Jake! </h1>
 
-<!--
-**JNielsen96/JNielsen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytic Projects:</h2>
 
-Here are some ideas to get you started:
+- [Data Analytics QUT](https://github.com/JNielsen96/QUT-Data-Analytics)
+- [Data Analytics Capstone](https://github.com/JNielsen96/Data-Analytics-Capstone)
+- [Data Analytics RStudio](https://github.com/JNielsen96/RStudio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>⚡Quantum Mechanics and Simulation Projects:</h2>
+
+- [Quantum Mechanics Capstone](https://github.com/JNielsen96/QM-Capstone)
+- [Quantum Mechanics Simulations](https://github.com/JNielsen96/QM-Simulations)
+
+<h2> 🔭 Astrophyiscs and Cosmology Projects:</h2>
+
+- [Astrophysics Projects](https://github.com/JNielsen96/Astrophysics-Projects)
+- [Cosmology Projects](https://github.com/JNielsen96/Cosmology-Projects)
+
+<h2> 💬 My details and Resume:</h2>
+
+- [Resume](https://github.com/JNielsen96/Resume)
+- [LinkedIn](www.linkedin.com/in/jake-nielsen-61209b244)
