@@ -11,7 +11,6 @@
 <h2>⚡Quantum Mechanics and Simulation Projects:</h2>
 
 - [Quantum Mechanics Capstone](https://github.com/JNielsen96/QM-Capstone)
-- [Quantum Mechanics Simulations](https://github.com/JNielsen96/QM-Simulations)
 
 <h2> 🔭 Astrophyiscs and Cosmology Projects:</h2>
 
