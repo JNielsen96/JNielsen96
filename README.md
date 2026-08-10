@@ -19,4 +19,4 @@
 
 <h2> 💬 Connect with me:</h2>
 
-- [LinkedIn](www.linkedin.com/in/jake-nielsen-61209b244)
+- [LinkedIn](https://www.linkedin.com/in/jake-nielsen-61209b244/)
