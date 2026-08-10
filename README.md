@@ -17,7 +17,6 @@
 - [Astrophysics Projects](https://github.com/JNielsen96/Astrophysics-Projects)
 - [Cosmology Projects](https://github.com/JNielsen96/Cosmology-Projects)
 
-<h2> 💬 My details and Resume:</h2>
+<h2> 💬 Connect with me:</h2>
 
-- [Resume](https://github.com/JNielsen96/Resume)
 - [LinkedIn](www.linkedin.com/in/jake-nielsen-61209b244)
